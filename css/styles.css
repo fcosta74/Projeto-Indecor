@@ -323,6 +323,9 @@
     .detail-description{
         padding: 0;
     }
+    #detail-1 h3{
+        font-size: 2.8em;
+    }
     #detail-3 img{
         order: 2;
     }
