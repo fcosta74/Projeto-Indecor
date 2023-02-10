@@ -11,7 +11,7 @@
     padding: 0;
     box-sizing: border-box;
 }
-/* Evente form*/
+/* Event form*/
 #event-description{
     background: linear-gradient(rgba(0, 0, 0, .8), rgba(0, 0, 0, .8)), url("../img/hrz-5.jpg");
     background-position: center;
@@ -249,7 +249,7 @@
 #footer span{
     font-weight: bold;
 }
-/* Mobile - Menores telas para mairores*/ 
+/* Mobile - Menores telas para maiores*/ 
 @media (max-width: 450px) {
     .btn{
         opacity: 1;
